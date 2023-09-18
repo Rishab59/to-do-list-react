@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rishab59/to-do-list-react/static/css/main.b961d8d7.css",
+    "main.js": "/Rishab59/to-do-list-react/static/js/main.e003fa51.js",
+    "index.html": "/Rishab59/to-do-list-react/index.html",
+    "main.b961d8d7.css.map": "/Rishab59/to-do-list-react/static/css/main.b961d8d7.css.map",
+    "main.e003fa51.js.map": "/Rishab59/to-do-list-react/static/js/main.e003fa51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b961d8d7.css",
+    "static/js/main.e003fa51.js"
+  ]
+}
